@@ -2,7 +2,7 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
-media_subpath: /_tabs/
+media_subpath: /assets/_tabs/
 ---
 
 # Hello!
