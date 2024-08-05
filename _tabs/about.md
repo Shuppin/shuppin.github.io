@@ -38,8 +38,8 @@ My favourite programming language is Rust, because I like writing the code that 
 ## 💬 Reach out and have a chat!
 
 <p align="center">
-  <a href="https://discordapp.com/users/311573778545115136"><img src="https://dcbadge.limes.pink/api/shield/311573778545115136" height=30/></a>
-  <a href="mailto:shuppin93@outlook.com"><img src="email.svg" height=30/></a>
+  <img src="https://dcbadge.limes.pink/api/shield/311573778545115136" height=30 alt="Discord: @shuppin"/>
+  <a href="mailto:shuppin93@outlook.com"><img src="email.svg" height=30 alt="shuppin93@outlook.com"/></a>
 </p> 
 
 
